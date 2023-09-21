@@ -1,0 +1,11 @@
+name = "neon-night"
+display-name = "Neon Night"
+description = "Dark Neon theme inspired by the cyberpunk aesthetic and genera, hints of vapor-wave and notes of the 80's"
+version = "0.1.0"
+icon = "assets/neon-night-lapce-themem-icon.png"
+author = "heartbeast42"
+repository = "https://github.com/heartbeast42/neon-night.git"
+color-themes = [
+    "neon-night-2077.toml",
+    "neon-night.toml",
+]
